@@ -1,0 +1,38 @@
+/* this is my style for my html */
+Body {
+    background-color:rgb(250, 250, 250)
+    
+}
+.para{
+ Color:rgb(161, 18, 85);
+ background-color: rgb(38, 189, 216);
+ border: 2px dotted black;
+ /*padding: 20px 20px 20px 20px;
+ margin: 20px 50px 20px 50px;*/
+ text-align: center;
+}
+.para2{
+    color: rgb(0, 0, 0);
+    background-color:rgb(19, 231, 178);
+    border: 2px solid violet;
+    border-radius: 9px;
+    /*padding: 20px 20px 20px 550px;
+    margin: 20px 50px 20px 50px;*/
+    text-align: center;
+}
+.para3{
+    color: rgb(0, 0, 0);
+    background-color:rgb(19, 231, 178);
+    border: 2px solid violet;
+    border-radius: 9px;
+    /*padding: 20px 20px 20px 550px;
+    margin: 20px 50px 20px 50px;*/
+    text-align: center;
+}
+
+a{
+    color: rgb(236, 24, 190);
+}
+a:hover{
+    color: green;
+}
